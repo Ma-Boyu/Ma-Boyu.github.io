@@ -37,15 +37,20 @@
       <!-- <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>-->
       <!--{% endif %}-->
       {% if author.email %}
-        <li>
-          <i class="fas fa-envelope"></i>  Email
-          <ul style="list-style-type: none; margin: 0; padding: 0;">
+        <li style="font-size: 1em;">
+          <i class="fas fa-envelope"></i> Email
+          <ul style="list-style-type: none; margin: 0; padding-left: 1em; font-size: 1em;">
             {% for email in author.email %}
-              <li><a href="mailto:{{ email }}">{{ email }}</a></li>
+              <li>
+                <a href="mailto:{{ email }}" style="font-size: 1em; color: #0366d6; text-decoration: none;">
+                  {{ email }}
+                </a>
+              </li>
             {% endfor %}
           </ul>
         </li>
       {% endif %}
+
 
 
       <!-- Font Awesome and Academicons icons / Academic websites -->
