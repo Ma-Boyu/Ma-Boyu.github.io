@@ -43,7 +43,6 @@ Education & Work Experience
     <li><strong>Postdoctoral Research Fellow</strong><br>
     Nanyang Technological University (NTU), Singapore<br>
     <span style="color: #666;">May 2025 – Present</span>
-  </li>
     <li><strong>Postdoctoral Research Assistant</strong><br>
     Harbin Institute of Technology (HIT), Harbin, China<br>
     <span style="color: #666;">Nov 2024 – Apr 2025</span>
