@@ -10,7 +10,7 @@ redirect_from:
 
 <h3>Hey there, I'm Boyu Ma 🌟</h3>
 <p align = "justify"> 
-  I am a Postdoctoral Research Fellow with the Department of Earth and Atmospheric Sciences and the Department of Electrical and Computer Engineering at Nanyang Technological University (NTU). I obtained my PhD in Geophysics in 2021 from <a href="https://english.pku.edu.cn" target="_blank" rel="noopener noreferrer">Peking University</a> (PKU), China, and BS in Geophysics in 2016 from the <a href="https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young" target="_blank" rel="noopener noreferrer">Special Class for the Gifted Young</a> at the <a href="https://en.ustc.edu.cn/" target="_blank" rel="noopener noreferrer">University of Science and Technology in China</a> (USTC), China.
+  I am a Postdoctoral Research Fellow with the School of Mechanical and Aerospace Engineering at Nanyang Technological University (NTU), Singapore. Before this, I obtained my Ph.D. in Mechanical Engineering from Harbin Institute of Technology (HIT), China, in October 2024, and a B.S. in Mechanical Design, Manufacturing and Automation from Yanshan University (YSU), Qinhuangdao, China, in June 2019.
 </p> 
 <p align = "justify"> 
 I am currently working with <a href="https://sites.google.com/view/jiajiasun" target="_blank" rel="noopener noreferrer">Dr. Jiajia Sun</a> and <a href="https://modal.ece.uh.edu/" target="_blank" rel="noopener noreferrer">Dr. Jiefu Chen</a> on quantifying the uncertainties of geophysical inverse problems, exploring natural hydrogen resources, and investigating the formation mechanisms of oceanic plateaus using marine magnetic data.
