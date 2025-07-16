@@ -49,7 +49,7 @@ Education & Work Experience
     <li><strong>B.E. in Mechanical Design, Manufacturing and Automation</strong><br>
     Yanshan University (YSU), Qinhuangdao, China<br>
     <span style="color: #666;">Sep 2015 – Jun 2019</span>
-
+</ul>
 
 
 For more info
