@@ -33,8 +33,10 @@ Before joining UH, I completed a two-year postdoctoral research program supervis
 
 Education & Work Experience
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
-
+Postdoctoral Research Fellow Nanyang Technological University (NTU), Singapore 2025.5-present
+Postdoctoral Research Assistant Harbin Institute of Technology (HIT), Harbin, China 2024.11-2025.4
+Ph.D. Mechanical Engineering (Robotics), Harbin Institute of Technology (HIT), Harbin, China 2019.9-2024.10
+B.E. Mechanical Design, Manufacturing and Automation, Yanshan University (YSU), Qinhuangdao, China 2015.9-2019.6 
 
 For more info
 ------
