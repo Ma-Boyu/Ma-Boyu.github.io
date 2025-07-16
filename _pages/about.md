@@ -33,10 +33,10 @@ Before joining UH, I completed a two-year postdoctoral research program supervis
 
 Education & Work Experience
 ------
-Postdoctoral Research Fellow Nanyang Technological University (NTU), Singapore 2025.5-present
-Postdoctoral Research Assistant Harbin Institute of Technology (HIT), Harbin, China 2024.11-2025.4
-Ph.D. Mechanical Engineering (Robotics), Harbin Institute of Technology (HIT), Harbin, China 2019.9-2024.10
-B.E. Mechanical Design, Manufacturing and Automation, Yanshan University (YSU), Qinhuangdao, China 2015.9-2019.6 
+<li>Postdoctoral Research Fellow Nanyang Technological University (NTU), Singapore 2025.5-present
+<li>Postdoctoral Research Assistant Harbin Institute of Technology (HIT), Harbin, China 2024.11-2025.4
+<li>Ph.D. Mechanical Engineering (Robotics), Harbin Institute of Technology (HIT), Harbin, China 2019.9-2024.10
+<li>B.E. Mechanical Design, Manufacturing and Automation, Yanshan University (YSU), Qinhuangdao, China 2015.9-2019.6 
 
 For more info
 ------
