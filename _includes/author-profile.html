@@ -38,22 +38,7 @@
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
       -->
-      {% if author.email1 %}
-        <li>
-          <a href="mailto:{{ author.email1 }}">
-            <i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>
-            Email: {{ author.email1 }}
-          </a>
-        </li>
-      {% endif %}
-      {% if author.email2 %}
-        <li>
-          <a href="mailto:{{ author.email2 }}">
-            <i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>
-            Email: {{ author.email2 }}
-          </a>
-        </li>
-      {% endif %}
+
 
 
       <!-- Font Awesome and Academicons icons / Academic websites -->
@@ -180,7 +165,25 @@
       {% endif %}
       {% if author.zhihu %}
       <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i> Zhihu</a></li>
-      {% endif %}      
+      {% endif %}     
+      
+      {% if author.email1 %}
+        <li>
+          <a href="mailto:{{ author.email1 }}">
+            <i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>
+            Email: {{ author.email1 }}
+          </a>
+        </li>
+      {% endif %}
+      {% if author.email2 %}
+        <li>
+          <a href="mailto:{{ author.email2 }}">
+            <i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>
+            Email: {{ author.email2 }}
+          </a>
+        </li>
+      {% endif %}
+      
     </ul>
   </div>
 </div>
