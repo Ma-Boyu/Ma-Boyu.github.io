@@ -31,35 +31,40 @@ Before joining UH, I completed a two-year postdoctoral research program supervis
 
 
 
-Education & Work Experience
+Education & Work Experience🎓
 ------
-<ul style="list-style: none; padding-left: 0; font-size: 16px; line-height: 1.6;">
+<ul style="list-style: disc; padding-left: 20px; font-size: 16px; line-height: 1.6;">
   <li>
-    <li><strong>Postdoctoral Research Fellow</strong><br>
+    <strong>Postdoctoral Research Fellow</strong><br>
     School of Mechanical and Aerospace Engineering, Nanyang Technological University (NTU), Singapore<br>
     <span style="color: #666;">May 2025 – Present</span>
   </li>
   <li>
-    <li><strong>Postdoctoral Research Assistant</strong><br>
+    <strong>Postdoctoral Research Assistant</strong><br>
     State Key Laboratory of Robotics and Systems, Harbin Institute of Technology (HIT), Harbin, China<br>
     <span style="color: #666;">Nov 2024 – Apr 2025</span>
   </li>
   <li>
-    <li><strong>Ph.D. in Mechanical Engineering (Robotics)</strong><br>
+    <strong>Ph.D. in Mechanical Engineering (Robotics)</strong><br>
     State Key Laboratory of Robotics and Systems, Harbin Institute of Technology (HIT), Harbin, China<br>
     <span style="color: #666;">Sep 2019 – Oct 2024</span>
   </li>
   <li>
-    <li><strong>Visiting Student (Summer Term)</strong><br>
+    <strong>Visiting Student (Summer Term)</strong><br>
     School of Mechatronics Engineering, Harbin Institute of Technology (HIT), Harbin, China<br>
     <span style="color: #666;">Jul 2017 – Aug 2017</span>
   </li>
   <li>
-    <li><strong>B.E. in Mechanical Design, Manufacturing and Automation</strong><br>
+    <strong>B.E. in Mechanical Design, Manufacturing and Automation</strong><br>
     School of Mechanical Engineering, Yanshan University (YSU), Qinhuangdao, China<br>
     <span style="color: #666;">Sep 2015 – Jun 2019</span>
   </li>
 </ul>
+
+<h2>News 📣</h2>
+
+<p>More info about configuring Academic Pages can be found in <a href="https://academicpages.github.io/markdown/">the guide</a>, the <a href="https://github.com/academicpages/academicpages.github.io/wiki">growing wiki</a>, and you can always <a href="https://github.com/academicpages/academicpages.github.io/discussions">ask a question on GitHub</a>. The <a href="https://mmistakes.github.io/minimal-mistakes/docs/configuration/">guides for the Minimal Mistakes theme</a> (which this theme was forked from) might also be helpful.</p>
+
 
 
 
