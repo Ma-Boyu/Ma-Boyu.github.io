@@ -40,22 +40,18 @@ Education & Work Experience
 
 <h2>Education & Work Experience</h2>
 <ul style="list-style: none; padding-left: 0; font-size: 16px; line-height: 1.6;">
-  <li>
     <li><strong>Postdoctoral Research Fellow</strong><br>
     Nanyang Technological University (NTU), Singapore<br>
     <span style="color: #666;">May 2025 – Present</span>
   </li>
-  <li>
     <li><strong>Postdoctoral Research Assistant</strong><br>
     Harbin Institute of Technology (HIT), Harbin, China<br>
     <span style="color: #666;">Nov 2024 – Apr 2025</span>
   </li>
-  <li>
     <li><strong>Ph.D. in Mechanical Engineering (Robotics)</strong><br>
     Harbin Institute of Technology (HIT), Harbin, China<br>
     <span style="color: #666;">Sep 2019 – Oct 2024</span>
   </li>
-  <li>
     <li><strong>B.E. in Mechanical Design, Manufacturing and Automation</strong><br>
     Yanshan University (YSU), Qinhuangdao, China<br>
     <span style="color: #666;">Sep 2015 – Jun 2019</span>
