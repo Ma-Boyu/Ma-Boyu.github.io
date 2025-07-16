@@ -36,20 +36,22 @@
       <!--{% if author.email %}-->
       <!-- <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>-->
       <!--{% endif %}-->
-      {% if author.email %}
-        <li class="author__desktop" style="display: flex; flex-direction: column; margin-bottom: 0.5em;">
-          <span>
-            <i class="fas fa-envelope icon-pad-right"></i>Email
-          </span>
-          <div style="margin-top: 0.3em; display: flex; flex-direction: column; gap: 0.3em;">
-            {% for email in author.email %}
-              <a href="mailto:{{ email }}" style="color: inherit; text-decoration: none;">
-                {{ email }}
-              </a>
-            {% endfor %}
-          </div>
+{% if author.email %}
+  <li class="author__desktop" style="display: flex; flex-direction: column; margin-bottom: 0.5em;">
+    <span>
+      <i class="fas fa-envelope icon-pad-right"></i> Email
+    </span>
+    <ul style="margin: 0.3em 0 0 1.2em; padding: 0; list-style: none;">
+      {% for email in author.email %}
+        <li style="margin-bottom: 0.2em;">
+          <a href="mailto:{{ email }}" style="color: inherit; text-decoration: none;">
+            {{ email }}
+          </a>
         </li>
-      {% endif %}
+      {% endfor %}
+    </ul>
+  </li>
+{% endif %}
 
 
 
