@@ -43,34 +43,13 @@ Education & Work Experience
     <li><strong>Ph.D. in Mechanical Engineering (Robotics)</strong><br>
     Harbin Institute of Technology (HIT), Harbin, China<br>
     <span style="color: #666;">Sep 2019 – Oct 2024</span>
+    <li><strong>Visiting Student in Mechanical Engineering (Robotics)</strong><br>
+    Harbin Institute of Technology (HIT), Harbin, China<br>
+    <span style="color: #666;">Aug 2017 – Jul 2017</span>
     <li><strong>B.E. in Mechanical Design, Manufacturing and Automation</strong><br>
     Yanshan University (YSU), Qinhuangdao, China<br>
     <span style="color: #666;">Sep 2015 – Jun 2019</span>
-</ul>
 
-<h2>Education & Work Experience</h2>
-<table style="width:100%; border-collapse: collapse; font-size: 16px;">
-  <tr>
-    <td style="padding: 8px; vertical-align: top; font-weight: bold;">Postdoctoral Research Fellow</td>
-    <td style="padding: 8px;">Nanyang Technological University (NTU), Singapore</td>
-    <td style="padding: 8px; color: #666;">May 2025 – Present</td>
-  </tr>
-  <tr>
-    <td style="padding: 8px; vertical-align: top; font-weight: bold;">Postdoctoral Research Assistant</td>
-    <td style="padding: 8px;">Harbin Institute of Technology (HIT), Harbin, China</td>
-    <td style="padding: 8px; color: #666;">Nov 2024 – Apr 2025</td>
-  </tr>
-  <tr>
-    <td style="padding: 8px; vertical-align: top; font-weight: bold;">Ph.D. Mechanical Engineering (Robotics)</td>
-    <td style="padding: 8px;">Harbin Institute of Technology (HIT), Harbin, China</td>
-    <td style="padding: 8px; color: #666;">Sep 2019 – Oct 2024</td>
-  </tr>
-  <tr>
-    <td style="padding: 8px; vertical-align: top; font-weight: bold;">B.E. Mechanical Design, Manufacturing and Automation</td>
-    <td style="padding: 8px;">Yanshan University (YSU), Qinhuangdao, China</td>
-    <td style="padding: 8px; color: #666;">Sep 2015 – Jun 2019</td>
-  </tr>
-</table>
 
 
 For more info
