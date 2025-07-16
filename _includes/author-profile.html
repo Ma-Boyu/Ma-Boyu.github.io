@@ -38,12 +38,24 @@
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
       -->
-     {% if author.email1 %}
-        <li><a href="mailto:{{ author.email1 }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email: boyu.ma@ntu.edu.sg" }}</a></li>-->
-     {% endif %} 
-     {% if author.email2 %}
-        <li><a href="mailto:{{ author.email2 }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email: mby9702@163.com" }}</a></li>-->
-     {% endif %} 
+{% if author.email1 %}
+  <li>
+    <a href="mailto:{{ author.email1 }}">
+      <i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>
+      Email: {{ author.email1 }}
+    </a>
+  </li>
+{% endif %}
+
+{% if author.email2 %}
+  <li>
+    <a href="mailto:{{ author.email2 }}">
+      <i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>
+      Email: {{ author.email2 }}
+    </a>
+  </li>
+{% endif %}
+
 
 
 
