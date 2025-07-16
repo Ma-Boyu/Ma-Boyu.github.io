@@ -43,7 +43,7 @@ Education & Work Experience
     <li><strong>Ph.D. in Mechanical Engineering (Robotics)</strong><br>
     State Key Laboratory of Robotics and Systems, Harbin Institute of Technology (HIT), Harbin, China<br>
     <span style="color: #666;">Sep 2019 – Oct 2024</span>
-    <li><strong>Visiting Student</strong><br>
+    <li><strong>Visiting Student (Summer Term)</strong><br>
     School of Mechatronics Engineering, Harbin Institute of Technology (HIT), Harbin, China<br>
     <span style="color: #666;">Aug 2017 – Jul 2017</span>
     <li><strong>B.E. in Mechanical Design, Manufacturing and Automation</strong><br>
