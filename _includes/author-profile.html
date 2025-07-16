@@ -37,14 +37,14 @@
       <!-- <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>-->
       <!--{% endif %}-->
 {% if author.email %}
-  <li class="author__desktop" style="display: flex; flex-direction: column; margin-bottom: 0.5em;">
+  <li class="author__desktop" style="display: flex; flex-direction: column; margin-bottom: 0.5em; font-size: inherit;">
     <span>
       <i class="fas fa-envelope icon-pad-right"></i> Email
     </span>
-    <ul style="margin: 0.3em 0 0 1.2em; padding: 0; list-style: none;">
+    <ul style="margin: 0.3em 0 0 1.2em; padding: 0; list-style: none; font-size: inherit;">
       {% for email in author.email %}
-        <li style="margin-bottom: 0.2em;">
-          <a href="mailto:{{ email }}" style="color: inherit; text-decoration: none;">
+        <li style="margin-bottom: 0.2em; font-size: inherit;">
+          <a href="mailto:{{ email }}" style="color: inherit; text-decoration: none; font-size: inherit;">
             {{ email }}
           </a>
         </li>
@@ -52,6 +52,7 @@
     </ul>
   </li>
 {% endif %}
+
 
 
 
