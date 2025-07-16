@@ -31,7 +31,7 @@ Before joining UH, I completed a two-year postdoctoral research program supervis
 
 
 
-Education & Work Experience🎓
+🎓Education & Work Experience
 ------
 <ul style="list-style: disc; padding-left: 20px; font-size: 16px; line-height: 1.6;">
   <li>
@@ -61,8 +61,8 @@ Education & Work Experience🎓
   </li>
 </ul>
 
-<h2>News 📣</h2>
-
+📣<News
+------
 <p>More info about configuring Academic Pages can be found in <a href="https://academicpages.github.io/markdown/">the guide</a>, the <a href="https://github.com/academicpages/academicpages.github.io/wiki">growing wiki</a>, and you can always <a href="https://github.com/academicpages/academicpages.github.io/discussions">ask a question on GitHub</a>. The <a href="https://mmistakes.github.io/minimal-mistakes/docs/configuration/">guides for the Minimal Mistakes theme</a> (which this theme was forked from) might also be helpful.</p>
 
 
