@@ -38,6 +38,31 @@ Education & Work Experience
 <li>Ph.D. Mechanical Engineering (Robotics), Harbin Institute of Technology (HIT), Harbin, China 2019.9-2024.10
 <li>B.E. Mechanical Design, Manufacturing and Automation, Yanshan University (YSU), Qinhuangdao, China 2015.9-2019.6 
 
+<h2>Education & Work Experience</h2>
+<ul style="list-style: none; padding-left: 0; font-size: 16px; line-height: 1.6;">
+  <li>
+    <strong>Postdoctoral Research Fellow</strong><br>
+    Nanyang Technological University (NTU), Singapore<br>
+    <span style="color: #666;">May 2025 – Present</span>
+  </li>
+  <li>
+    <strong>Postdoctoral Research Assistant</strong><br>
+    Harbin Institute of Technology (HIT), Harbin, China<br>
+    <span style="color: #666;">Nov 2024 – Apr 2025</span>
+  </li>
+  <li>
+    <strong>Ph.D. Mechanical Engineering (Robotics)</strong><br>
+    Harbin Institute of Technology (HIT), Harbin, China<br>
+    <span style="color: #666;">Sep 2019 – Oct 2024</span>
+  </li>
+  <li>
+    <strong>B.E. Mechanical Design, Manufacturing and Automation</strong><br>
+    Yanshan University (YSU), Qinhuangdao, China<br>
+    <span style="color: #666;">Sep 2015 – Jun 2019</span>
+  </li>
+</ul>
+
+
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
