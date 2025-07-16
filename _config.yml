@@ -25,9 +25,7 @@ author:
   avatar           : "boyu.jpg"
   name             : "Boyu Ma 马博宇 🧗‍♂️"
   pronouns         : # example: "she/her"  
-  bio:
-    - "Postdoctoral Research Fellow"
-    - "Robotics & AI"
+  bio              : "Postdoctoral Research Fellow<br>Robotics & AI"
   location         : " Singapore"
   employer         : " Nanyang Technological University"
   uri              : # URL
