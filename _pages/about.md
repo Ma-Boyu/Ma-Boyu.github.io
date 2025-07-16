@@ -45,7 +45,7 @@ Education & Work Experience
     <span style="color: #666;">Sep 2019 – Oct 2024</span>
     <li><strong>Visiting Student (Summer Term)</strong><br>
     School of Mechatronics Engineering, Harbin Institute of Technology (HIT), Harbin, China<br>
-    <span style="color: #666;">Aug 2017 – Jul 2017</span>
+    <span style="color: #666;">Jul 2017 – Aug 2017</span>
     <li><strong>B.E. in Mechanical Design, Manufacturing and Automation</strong><br>
     School of Mechanical Engineering, Yanshan University (YSU), Qinhuangdao, China<br>
     <span style="color: #666;">Sep 2015 – Jun 2019</span>
