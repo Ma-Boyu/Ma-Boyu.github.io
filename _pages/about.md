@@ -19,13 +19,6 @@ Before joining NTU, I obtained my Ph.D. in Mechanical Engineering from the Harbi
 <p align = "justify"> 
 <strong>My research interests include:</strong>
 </p>
-  
-<ul>
-<li>Uncertainty quantification of geophysical inverse problems based on machine learning techniques</li>
-<li>Deep learning-based signal processing, modeling, imaging, uncertainty quantification of electromagnetic data, especially airborne electromagnetic data</li>
-<li>Near-surface hydrological investigation</li>
-<li>Hydrogen exploration</li>
-</ul>
 
 
 🤖 Research interests
