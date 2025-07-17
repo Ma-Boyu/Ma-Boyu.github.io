@@ -17,14 +17,14 @@ main:
   - title: "Honors and Awards"
     url: /honors-and-awards/  
 
-  - title: "Hobbies"
-    url: /hobbies/  
-
   - title: "Collaborations"
     url: /collaborations/
     
   - title: "CV"
     url: /cv/
+
+ - title: "Hobbies"
+    url: /hobbies/  
 
   - title: "Website visitors"
     url: /website-visitors/
