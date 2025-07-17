@@ -17,7 +17,7 @@ Before joining NTU, I obtained my Ph.D. in Mechanical Engineering from the Harbi
 </p>
 
 
-🤖 Research interests
+🤖 Research Interests
 ------
 <table style="width: 100%; border-collapse: collapse; border: none;">
   <tr>
