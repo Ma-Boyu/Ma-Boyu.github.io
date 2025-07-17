@@ -79,7 +79,7 @@ Before joining NTU, I obtained my Ph.D. in Mechanical Engineering (specialized i
 📣 News
 ------
 
-
+<li style="font-size: 0.9em; line-height: 1.6;">2025.05.16:  Excited to share that I’ve joined Nanyang Technological University (NTU) as a Postdoctoral Research Fellow! 🚀 </li>
 <li style="font-size: 0.9em; line-height: 1.6;">2025.03.03:  I received an <strong>OFFER</strong> for a Postdoctoral Research Fellow position at Nanyang Technological University (NTU), Singapore! 🎉 Can’t wait to start this new journey! 🤩 </li>
 
 <li style="font-size: 0.9em; line-height: 1.6;">2024.12.29:  I attended my Ph.D. graduation ceremony and received my degree! 🎓</li>
