@@ -79,11 +79,11 @@ Before joining NTU, I obtained my Ph.D. in Mechanical Engineering (specialized i
 📣 News
 ------
 
-<li style="font-size: 0.8em; line-height: 1.6;">2023.12.03: I’m going to ROBIO 2023, and my oral presentation is on Dec 8. See you in Koh Samui, Thailand! </li>
-<li style="font-size: 0.93em; line-height: 1.6;">2023.07.20: Finally completed the major experiments in Beijing for my PhD thesis — powered through several all-nighters! 😴</li>
-<li style="font-size: 0.8em; line-height: 1.6;">2023.05.29: IEEE TSMC accepted my fourth SCI paper  — hard work rewarded! 💪</li>
-<li style="font-size: 0.93em; line-height: 1.6;">2023.05.11: All research for my PhD thesis DONE! Tears of joy! 😭</li>
-<li style="font-size: 0.93em; line-height: 1.6;">2023.02.22: My third SCI paper — a review on space robotics — was finally accepted by AISY!🚀 From a rough idea in Dec 2020 to a complete publication, it took over two years of refining, rewriting, and not giving up. Perseverance paid off! </li>
+<li style="font-size: 0.87em; line-height: 1.6;">2023.12.03: I’m going to ROBIO 2023, and my oral presentation is on Dec 8. See you in Koh Samui, Thailand! </li>
+<li style="font-size: 0.87em; line-height: 1.6;">2023.07.20: Finally completed the major experiments in Beijing for my PhD thesis — powered through several all-nighters! 😴</li>
+<li style="font-size: 0.87em; line-height: 1.6;">2023.05.29: IEEE TSMC accepted my fourth SCI paper  — hard work rewarded! 💪</li>
+<li style="font-size: 0.87em; line-height: 1.6;">2023.05.11: All research for my PhD thesis DONE! Tears of joy! 😭</li>
+<li style="font-size: 0.87em; line-height: 1.6;">2023.02.22: My third SCI paper — a review on space robotics — was finally accepted by AISY!🚀 From a rough idea in Dec 2020 to a complete publication, it took over two years of refining, rewriting, and not giving up. Perseverance paid off! </li>
 <li style="font-size: 0.93em; line-height: 1.6;">2023.01.07: My second Ph.D. SCI paper was accepted by EAAI — time to celebrate! 🎉</li>
 <li style="font-size: 0.93em; line-height: 1.6;">2022.02.27: Got my first review invitation from IEEE TSMC — my debut as a journal reviewer! Feeling excited and honored! 🤓 </li>
 <li style="font-size: 0.93em; line-height: 1.6;">2021.01.16: My first SCI paper was accepted by FME — what a big step in my research journey! 🎉</li>
