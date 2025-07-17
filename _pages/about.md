@@ -19,20 +19,6 @@ Before joining NTU, I obtained my Ph.D. in Mechanical Engineering from the Harbi
 
 🤖 Research interests
 ------
-<ul>
-<li>Embodied AI, Robotics & AI</li>
-<li>Robot learning</li>
-<li>Redundancy resolution for robot manipulators</li>
-<li>Obstacle avoidance in robotic motion planning</li>
-<li>Foundation model-driven robotics (VLA)</li>
-<li>Robotic dexterous grasping</li>
-<li>Dual-arm collaborative manipulation</li>
-<li>Humanoid robots</li>
-<li>Optimization theory and applications in robotics</li>
-<li>Metaheuristic algorithms</li>
-</ul>
-
-
 <table style="width: 100%; border-collapse: collapse; border: none;">
   <tr>
     <td style="vertical-align: top; padding-right: 20px; border: none;">
@@ -55,6 +41,7 @@ Before joining NTU, I obtained my Ph.D. in Mechanical Engineering from the Harbi
     </td>
   </tr>
 </table>
+
 
 
 
