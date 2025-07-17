@@ -78,6 +78,8 @@ Before joining NTU, I obtained my Ph.D. in Mechanical Engineering (specialized i
 
 📣 News
 ------
-<li>2019.09.01: Officially started my Ph.D. journey — diving into the world of robotics research! 🤩 </li>
+<li>2021.09.01: Officially started my Ph.D. journey — diving into the world of robotics research! 🤩 </li>
+<li><span style="white-space: nowrap;">2019.09.01: Officially started my Ph.D. journey — diving into the world of robotics research! 🤩</span></li>
+
 
 
