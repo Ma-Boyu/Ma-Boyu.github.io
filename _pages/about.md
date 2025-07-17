@@ -16,7 +16,7 @@ redirect_from:
 Before joining NTU, I obtained my Ph.D. in Mechanical Engineering (specialized in Robotics) at the State Key Laboratory of Robotics and Systems, Harbin Institute of Technology (HIT), Harbin, China, in October 2024, under the supervision of Prof. <a href="https://homepage.hit.edu.cn/xiezongwu?lang=zh" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Zongwu Xie</a> and co-supervision of Prof. <a href="https://homepage.hit.edu.cn/jiangzainan?lang=zh" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Zainan Jiang</a>, in the research lab led by Prof. <a href="https://homepage.hit.edu.cn/liuhong?lang=zh" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Hong Liu</a> (Academician of the Chinese Academy of Engineering & Vice President of HIT). During my Ph.D. studies, I also closely collaborated with Associate Profs. <a href="https://homepage.hit.edu.cn/liuyanghit?lang=zh" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Yang Liu</a> and <a href="https://homepage.hit.edu.cn/caobaoshi?lang=zh" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Baoshi Cao</a>. Earlier, I received my B.S. in Mechanical Design, Manufacturing and Automation (specialized in Mechatronic Engineering) from Yanshan University (YSU), Qinhuangdao, China, in June 2019.
 </p>
 
-<em>🌟 If you’re interested in my research, or even me, and would like to collaborate, please feel free to reach out via email.</em>
+<em>🌟 If you’re interested in my research, or even me, and would like to collaborate, please feel free to contact me via email anytime.</em> 
 <em>🌍 I’m open to exploring collaboration opportunities with scholars worldwide.</em>
 
 
