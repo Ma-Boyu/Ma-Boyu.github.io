@@ -78,13 +78,13 @@ Before joining NTU, I obtained my Ph.D. in Mechanical Engineering (specialized i
 
 📣 News
 ------
-
+<li style="font-size: 0.9em; line-height: 1.6;">2025.07.02:  Suuuuuuper excited to share that my first-author paper from my Ph.D. work has been accepted by <strong style="color:red;">The International Journal of Robotics Research (IJRR)</strong>, one of the top three journals in robotics! 🎉 This has been a dream of mine since I started in robotics — can’t believe it’s finally coming true after six years in this field! 🎉🤩 </li>
 <li style="font-size: 0.9em; line-height: 1.6;">2025.05.16:  Excited to share that I’ve joined Nanyang Technological University (NTU) as a Postdoctoral Research Fellow! 🚀 </li>
 <li style="font-size: 0.9em; line-height: 1.6;">2025.03.03:  I received an <strong>OFFER</strong> for a Postdoctoral Research Fellow position at Nanyang Technological University (NTU), Singapore! 🎉 Can’t wait to start this new journey! 🤩 </li>
 
 <li style="font-size: 0.9em; line-height: 1.6;">2024.12.29:  I attended my Ph.D. graduation ceremony and received my degree! 🎓</li>
 <li style="font-size: 0.9em; line-height: 1.6;">2024.10.13:  I successfully passed my Ph.D. defense from 9:00am to 2:00pm. I'm officially <strong>GRADUATED</strong> !!! 🎓 Can’t believe it’s finally over 😭 Super happy, but soooo tired.🤯</li>
-<li style="font-size: 0.9em; line-height: 1.6;">2024.08.20:  Passed my Ph.D. pre-defense! Excited for the next steps. 💪 </li>
+<li style="font-size: 0.9em; line-height: 1.6;">2024.08.20:  Passed my Ph.D. pre-defense! Excited for the next steps. 💪</li>
 <li style="font-size: 0.9em; line-height: 1.6;">2024.05.12:  I’m going to ICRA 2024 in Yokohama, Japan. Looking forward to seeing you there! ✈️</li>
 <li style="font-size: 0.9em; line-height: 1.6;">2023.12.03:  I’m going to ROBIO 2023, and my oral presentation is on Dec 8. See you in Koh Samui, Thailand! ✈️</li>
 <li style="font-size: 0.9em; line-height: 1.6;">2023.07.20:  Finally completed the major experiments in Beijing for my PhD thesis — powered through several all-nighters! 😴</li>
