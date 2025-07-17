@@ -79,15 +79,24 @@ Before joining NTU, I obtained my Ph.D. in Mechanical Engineering (specialized i
 📣 News
 ------
 
+<li style="font-size: 0.93em; line-height: 1.6;">2023.01.07: My second Ph.D. SCI paper was accepted by EAAI — time to celebrate! 🎉</li>
 
-<li style="font-size: 0.93em; line-height: 1.6; text-indent: -1.2em; padding-left: 1.2em;">
+<li style="font-size: 0.93em; line-height: 1.6;">2023.01.07: My second Ph.D. SCI paper was accepted by EAAI — time to celebrate! 🎉</li>
+
+<li style="font-size: 0.93em; line-height: 1.6; text-indent: -1.2em; padding-left: 1.2em;"> 
   2022.02.27: Got my first review invitation from IEEE TSMC — my debut as a journal reviewer!<br>
   <span style="display: inline-block; padding-left: 6.9em;">Feeling excited and honored! 🤓</span>
 </li>
 
+<li style="font-size: 0.93em; line-height: 1.6; text-indent: -1.2em; padding-left: 1.2em;"> 
+  2022.02.27: Got my first review invitation from IEEE TSMC — my debut as a journal reviewer!<br>
+  <span style="display: inline-block; padding-left: 6.9em;">Feeling excited and honored! 🤓</span>
+</li>
 
-
-
+<li style="font-size: 0.93em; line-height: 1.6; text-indent: -1.2em; padding-left: 1.2em;"> 
+  2022.02.27: Got my first review invitation from IEEE TSMC — my debut as a journal reviewer!<br>
+  <span style="display: inline-block; padding-left: 6.9em;">Feeling excited and honored! 🤓</span>
+</li>
 
 <li style="font-size: 0.93em; line-height: 1.6;">2021.01.16: My first SCI paper was accepted by FME — what a big step in my research journey! 🎉</li>
 <li style="font-size: 0.93em; line-height: 1.6;">2019.09.01: Officially started my Ph.D. journey — diving into the world of robotics research! 🤩</li>
