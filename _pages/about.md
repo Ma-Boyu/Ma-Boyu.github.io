@@ -32,9 +32,9 @@ Before joining NTU, I obtained my Ph.D. in Mechanical Engineering from the Harbi
 <li>Metaheuristic algorithms</li>
 </ul>
 
-<table>
+<table style="width: 100%; border-collapse: collapse; border: none;">
   <tr>
-    <td>
+    <td style="vertical-align: top; padding-right: 20px; border: none;">
       <ul>
         <li>Embodied AI, Robotics & AI</li>
         <li>Robot learning</li>
@@ -43,7 +43,7 @@ Before joining NTU, I obtained my Ph.D. in Mechanical Engineering from the Harbi
         <li>Foundation model-driven robotics (VLA)</li>
       </ul>
     </td>
-    <td>
+    <td style="vertical-align: top; padding-left: 20px; border: none;">
       <ul>
         <li>Robotic dexterous grasping</li>
         <li>Dual-arm collaborative manipulation</li>
@@ -54,6 +54,7 @@ Before joining NTU, I obtained my Ph.D. in Mechanical Engineering from the Harbi
     </td>
   </tr>
 </table>
+
 
 
 
