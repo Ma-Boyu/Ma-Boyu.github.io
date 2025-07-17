@@ -81,7 +81,7 @@ Before joining NTU, I obtained my Ph.D. in Mechanical Engineering (specialized i
 <div style="max-width: 100%; overflow-x: auto; padding-right: 1em;">
 
 <li style="font-size: 0.93em; line-height: 1.6;">
-  2023.12.03: I’m going to ROBIO 2023. My oral presentation is on Dec 8. See you in Koh Samui, Thailand! 
+  2023.12.03: I’m going to ROBIO 2023, and my oral presentation is on Dec 8. See you in Koh Samui, Thailand! 
   <img src="https://flagcdn.com/w20/th.png" alt="Thailand" style="vertical-align: middle; height: 1em;">
 </li>
 
