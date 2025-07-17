@@ -79,6 +79,9 @@ Before joining NTU, I obtained my Ph.D. in Mechanical Engineering (specialized i
 📣 News
 ------
 
+<li style="font-size: 0.9em; line-height: 1.6;">
+  2024.10.13: Just passed my Ph.D. defense (9:00am–2:00pm)! I'm officially graduated 🎓 Can’t believe it’s finally over 🥲 Super happy, but soooo tired.
+</li>
 <li style="font-size: 0.9em; line-height: 1.6;">2024.08.20: I successfully passed my Ph.D. pre-defense! 💪 </li>
 <li style="font-size: 0.9em; line-height: 1.6;">2024.05.12: I’m going to ICRA 2024 in Yokohama, Japan. Looking forward to seeing you there! ✈️</li>
 <li style="font-size: 0.9em; line-height: 1.6;">2023.12.03: I’m going to ROBIO 2023, and my oral presentation is on Dec 8. See you in Koh Samui, Thailand! ✈️</li>
