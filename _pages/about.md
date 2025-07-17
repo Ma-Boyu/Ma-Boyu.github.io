@@ -16,10 +16,6 @@ redirect_from:
 Before joining NTU, I obtained my Ph.D. in Mechanical Engineering from the Harbin Institute of Technology (HIT), Harbin, China, in October 2024, under the supervision of Prof. <a href="https://homepage.hit.edu.cn/xiezongwu?lang=zh" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Zongwu Xie</a> and co-supervision of Prof. <a href="https://homepage.hit.edu.cn/jiangzainan?lang=zh" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Zainan Jiang</a>, in the research lab led by Prof. <a href="https://homepage.hit.edu.cn/liuhong?lang=zh" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Hong Liu</a> (Academician of the Chinese Academy of Engineering & Vice President of HIT). Earlier, I received my B.S. in Mechanical Design, Manufacturing and Automation (specialized in Mechatronic Engineering) from Yanshan University (YSU), Qinhuangdao, China, in June 2019.
 <p align = "justify"> 
 
-</p>
-<p align = "justify"> 
-Before joining UH, I completed a two-year postdoctoral research program supervised by <a href="https://scholar.google.com/citations?user=mvImZ_oAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Prof. Qinghua Huang</a> at PKU in 2023.
-</p>
 <p align = "justify"> 
 <strong>My research interests include:</strong>
 </p>
