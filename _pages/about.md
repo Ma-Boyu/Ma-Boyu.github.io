@@ -92,6 +92,7 @@ Before joining NTU, I obtained my Ph.D. in Mechanical Engineering (specialized i
 <li style="font-size: 0.9em; line-height: 1.6;"><em>2024.12.29</em> :  I attended my Ph.D. graduation ceremony and received my degree! 🎓</li>
 <li style="font-size: 0.9em; line-height: 1.6;"><em>2024.10.13</em> :  I successfully passed my Ph.D. defense from 9:00am to 2:00pm. I'm officially <strong>GRADUATED</strong> !!! 🎓 Can’t believe it’s finally over 😭 Super happy, but soooo tired.🤯</li>
 <li style="font-size: 0.9em; line-height: 1.6;"><em>2024.08.20</em> :  Passed my Ph.D. pre-defense! Excited for the next steps. 💪</li>
+<li style="font-size: 0.9em; line-height: 1.6;"><em>2024.08.04</em> :  Honoured to have given an invited talk on redundancy resolution at Tsinghua University (International Graduate School), Shenzhen, China. 🎤</li>
 <li style="font-size: 0.9em; line-height: 1.6;"><em>2024.05.12</em> :  I’m going to ICRA 2024 in Yokohama, Japan. Looking forward to seeing you there! ✈️</li>
 <li style="font-size: 0.9em; line-height: 1.6;"><em>2023.12.03</em> :  I’m going to ROBIO 2023, and my oral presentation is on Dec 8. See you in Koh Samui, Thailand! ✈️</li>
 <li style="font-size: 0.9em; line-height: 1.6;"><em>2023.07.20</em> :  Finally completed the major experiments in Beijing for my PhD thesis — powered through several all-nighters! 😴</li>
