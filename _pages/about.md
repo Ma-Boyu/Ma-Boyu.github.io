@@ -82,7 +82,7 @@ Before joining NTU, I obtained my Ph.D. in Mechanical Engineering (specialized i
 
 <li style="font-size: 0.93em; line-height: 1.6; text-indent: -1.2em; padding-left: 1.2em;">
   2022.02.27: Got my first review invitation from IEEE TSMC — my debut as a journal reviewer!<br>
-  <span style="display: inline-block; padding-left: 7.2em;">Feeling excited and honored! 🤓</span>
+  <span style="display: inline-block; padding-left: 6.8em;">Feeling excited and honored! 🤓</span>
 </li>
 
 
