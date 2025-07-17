@@ -32,28 +32,6 @@ Before joining NTU, I obtained my Ph.D. in Mechanical Engineering from the Harbi
 <li>Metaheuristic algorithms</li>
 </ul>
 
-<table style="width: 100%; border-collapse: collapse; border: none;">
-  <tr>
-    <td style="vertical-align: top; padding-right: 20px; border: none;">
-      <ul>
-        <li>Embodied&nbsp;AI,&nbsp;Robotics&nbsp;&amp;&nbsp;AI</li>
-        <li>Robot&nbsp;learning</li>
-        <li>Redundancy&nbsp;resolution&nbsp;for&nbsp;robot&nbsp;manipulators</li>
-        <li>Obstacle&nbsp;avoidance&nbsp;in&nbsp;robotic&nbsp;motion&nbsp;planning</li>
-        <li>Foundation&nbsp;model-driven&nbsp;robotics&nbsp;(VLA)</li>
-      </ul>
-    </td>
-    <td style="vertical-align: top; padding-left: 20px; border: none;">
-      <ul>
-        <li>Robotic&nbsp/dexterous&nbsp/grasping</li>
-        <li>Dual-arm&nbsp;collaborative&nbsp;manipulation</li>
-        <li>Humanoid&nbsp;robots</li>
-        <li>Optimization&nbsp;theory&nbsp;and&nbsp;applications&nbsp;in&nbsp;robotics</li>
-        <li>Metaheuristic&nbsp;algorithms</li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
   <tr>
