@@ -78,9 +78,6 @@ Before joining NTU, I obtained my Ph.D. in Mechanical Engineering (specialized i
 
 📣 News
 ------
-<div style="max-width: 1200px; padding: 0 1em; margin: 0 auto; overflow-x: auto;">
-  <ul style="list-style: none; padding-left: 0; font-size: 0.93em; line-height: 1.6;">
-
 
 <li style="font-size: 0.93em; line-height: 1.6;">
   2023.12.03: I’m going to ROBIO 2023, and my oral presentation is on Dec 8. See you in Koh Samui, Thailand! 
@@ -108,6 +105,4 @@ Before joining NTU, I obtained my Ph.D. in Mechanical Engineering (specialized i
 <li style="font-size: 0.93em; line-height: 1.6;">2021.01.16: My first SCI paper was accepted by FME — what a big step in my research journey! 🎉</li>
 <li style="font-size: 0.93em; line-height: 1.6;">2019.09.01: Officially started my Ph.D. journey — diving into the world of robotics research! 🤩</li>
 
- </ul>
-</div>
 
