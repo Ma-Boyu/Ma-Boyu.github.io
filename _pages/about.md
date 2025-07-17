@@ -84,7 +84,7 @@ Before joining NTU, I obtained my Ph.D. in Mechanical Engineering (specialized i
 <li style="font-size: 0.93em; line-height: 1.6; text-indent: -1.2em; padding-left: 1.2em;"> 
   2023.02.22: My third SCI paper — a review on space robotics — was finally accepted by AISY! 🚀<br>
   <span style="display: inline-block; padding-left: 6.9em;">From a rough idea in Dec 2020 to a complete publication, it took over two years of</span>
-  <span style="display: inline-block; padding-left: 6.9em;">refining, rewriting, and not giving up. Perseverance paid off!
+  <span style="display: inline-block; padding-left: 6.9em;">refining, rewriting, and not giving up. Perseverance paid off!</span>
 </li>
 
 <li style="font-size: 0.93em; line-height: 1.6;">2023.01.07: My second Ph.D. SCI paper was accepted by EAAI — time to celebrate! 🎉</li>
