@@ -29,7 +29,36 @@ Before joining NTU, I obtained my Ph.D. in Mechanical Engineering from the Harbi
 <li>Dual-arm collaborative manipulation</li>
 <li>Humanoid robots</li>
 <li>Optimization theory and applications in robotics</li>
-<li>Metaheuristic algorithm</li>
+<li>Metaheuristic algorithms</li>
+</ul>
+
+<style>
+  .two-column-list {
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+    column-gap: 2em;      /* 列间距 */
+    list-style-type: disc;
+    padding-left: 1.2em;  /* 列表左侧缩进 */
+  }
+  /* 保证每个 <li> 的内容上对齐 */
+  .two-column-list li {
+    break-inside: avoid;  /* 避免内容断开 */
+    margin-bottom: 0.5em; /* 每项间距 */
+  }
+</style>
+
+<ul class="two-column-list">
+  <li>Embodied AI, Robotics & AI</li>
+  <li>Robot learning</li>
+  <li>Redundancy resolution for robot manipulators</li>
+  <li>Obstacle avoidance in robotic motion planning</li>
+  <li>Foundation model-driven robotics (VLA)</li>
+  <li>Robotic dexterous grasping</li>
+  <li>Dual-arm collaborative manipulation</li>
+  <li>Humanoid robots</li>
+  <li>Optimization theory and applications in robotics</li>
+  <li>Metaheuristic algorithms</li>
 </ul>
 
 
