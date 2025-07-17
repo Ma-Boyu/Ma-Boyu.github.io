@@ -24,15 +24,15 @@ Before joining NTU, I obtained my Ph.D. in Mechanical Engineering from the Harbi
     <td style="vertical-align: top; padding-right: 20px; border: none;">
       <ul style="margin: 0; padding-left: 1.2em; font-size: inherit; line-height: inherit;">
         <li>Embodied AI, Robotics & AI</li>
-        <li>Robot learning</li>
+        <li>Foundation model-driven robotics (VLA)</li>
         <li>Redundancy resolution for robot manipulators</li>
         <li>Obstacle avoidance in robotic motion planning</li>
-        <li>Foundation model-driven robotics (VLA)</li>
+        <li>Robotic dexterous grasping</li>
       </ul>
     </td>
     <td style="vertical-align: top; padding-left: 20px; border: none;">
       <ul style="margin: 0; padding-left: 1.2em; font-size: inherit; line-height: inherit;">
-        <li>Robotic dexterous grasping</li>
+        <li>Robot learning</li>
         <li>Dual-arm collaborative manipulation</li>
         <li>Humanoid robots</li>
         <li>Optimization theory and applications in robotics</li>
