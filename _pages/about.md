@@ -81,8 +81,3 @@ Before joining NTU, I obtained my Ph.D. in Mechanical Engineering from the Harbi
 <p>More info about configuring Academic Pages can be found in <a href="https://academicpages.github.io/markdown/">the guide</a>, the <a href="https://github.com/academicpages/academicpages.github.io/wiki">growing wiki</a>, and you can always <a href="https://github.com/academicpages/academicpages.github.io/discussions">ask a question on GitHub</a>. The <a href="https://mmistakes.github.io/minimal-mistakes/docs/configuration/">guides for the Minimal Mistakes theme</a> (which this theme was forked from) might also be helpful.</p>
 
 
-
-
-News📣
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
