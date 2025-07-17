@@ -20,10 +20,14 @@ Before joining NTU, I obtained my Ph.D. in Mechanical Engineering from the Harbi
 🤖 Research interests
 ------
 <ul>
-<li>Uncertainty quantification of geophysical inverse problems based on machine learning techniques</li>
-<li>Deep learning-based signal processing, modeling, imaging, uncertainty quantification of electromagnetic data, especially airborne electromagnetic data</li>
-<li>Near-surface hydrological investigation</li>
-<li>Hydrogen exploration</li>
+<li>Embodied AI, Robotics & AI</li>
+<li>Robot learning</li>
+<li>Redundancy resolution for robot manipulators</li>
+<li>Obstacle avoidance in robotic motion planning</li>
+<li>Foundation model-driven robotics (VLA)</li>
+<li>Robotic dexterous grasping</li>
+<li>Dual-arm collaborative manipulation</li>
+<li>Humanoid robots</li>
 </ul>
 
 
