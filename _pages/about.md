@@ -19,10 +19,10 @@ Before joining NTU, I obtained my Ph.D. in Mechanical Engineering from the Harbi
 
 🤖 Research Interests
 ------
-<table style="width: 100%; border-collapse: collapse; border: none;">
+<table style="width: 100%; border-collapse: collapse; border: none; font-size: 16px; line-height: 1.6;">
   <tr>
     <td style="vertical-align: top; padding-right: 20px; border: none;">
-      <ul>
+      <ul style="margin: 0; padding-left: 1.2em; font-size: inherit; line-height: inherit;">
         <li>Embodied AI, Robotics & AI</li>
         <li>Robot learning</li>
         <li>Redundancy resolution for robot manipulators</li>
@@ -31,7 +31,7 @@ Before joining NTU, I obtained my Ph.D. in Mechanical Engineering from the Harbi
       </ul>
     </td>
     <td style="vertical-align: top; padding-left: 20px; border: none;">
-      <ul>
+      <ul style="margin: 0; padding-left: 1.2em; font-size: inherit; line-height: inherit;">
         <li>Robotic dexterous grasping</li>
         <li>Dual-arm collaborative manipulation</li>
         <li>Humanoid robots</li>
@@ -41,6 +41,7 @@ Before joining NTU, I obtained my Ph.D. in Mechanical Engineering from the Harbi
     </td>
   </tr>
 </table>
+
 
 
 
