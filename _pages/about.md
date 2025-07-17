@@ -78,16 +78,15 @@ Before joining NTU, I obtained my Ph.D. in Mechanical Engineering (specialized i
 
 📣 News
 ------
-<li style="font-size: 0.93em; line-height: 1.6;">2021.01.16: My first SCI paper was accepted by FME — what a big step in my research journey! 🎉</li>
-<li style="font-size: 0.93em; line-height: 1.6;">2021.01.16: My first SCI paper was accepted by FME — what a big step in my research journey! 🎉</li>
 
 
-<li style="font-size: 0.93em; line-height: 1.6;">
-  <div style="padding-left: 6.4em; text-indent: -6.4em;">
+<li style="font-size: 0.93em; line-height: 1.6; list-style-position: inside;">
+  <span style="display: inline-block; text-indent: -6.4em; padding-left: 6.4em;">
     2022.02.27: Got my first review invitation from IEEE TSMC — my debut as a journal reviewer!<br>
-    <span style="display: inline-block; padding-left: 6.4em;">Feeling excited and honored! 🤓</span>
-  </div>
+    <span style="padding-left: 6.4em;">Feeling excited and honored! 🤓</span>
+  </span>
 </li>
+
 
 
 
