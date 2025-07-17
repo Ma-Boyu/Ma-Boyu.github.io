@@ -78,7 +78,7 @@ Before joining NTU, I obtained my Ph.D. in Mechanical Engineering (specialized i
 
 📣 News
 ------
-<li style="font-size: 0.9em; line-height: 1.6;">2025.07.02:  💥🤖 Suuuuuuper excited to share that my first-author paper from my Ph.D. work has been accepted by <strong style="color:red;">The International Journal of Robotics Research (IJRR)</strong>, one of the top 3 journals in robotics! 🎉 This has been a dream of mine since I started in robotics — still can’t believe it’s finally coming true after five years in this field! 🥹 WE DID IT!!! 🏆 </li>
+<li style="font-size: 0.9em; line-height: 1.6;"><em>2025.07.02</em>:  💥🤖 Suuuuuuper excited to share that my first-author paper from my Ph.D. work has been accepted by <strong style="color:red;">The International Journal of Robotics Research (IJRR)</strong>, one of the top 3 journals in robotics! 🎉 This has been a dream of mine since I started in robotics — still can’t believe it’s finally coming true after five years in this field! 🥹 WE DID IT!!! 🏆 </li>
 <li style="font-size: 0.9em; line-height: 1.6;">2025.05.16:  Excited to share that I’ve joined Nanyang Technological University (NTU) as a Postdoctoral Research Fellow! 🚀 </li>
 <li style="font-size: 0.9em; line-height: 1.6;">2025.03.03:  I received an <strong>OFFER</strong> for a Postdoctoral Research Fellow position at Nanyang Technological University (NTU), Singapore! 🎉 Can’t wait to start this new journey! 🤩 </li>
 
