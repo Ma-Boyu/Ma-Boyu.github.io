@@ -79,6 +79,8 @@ Before joining NTU, I obtained my Ph.D. in Mechanical Engineering (specialized i
 📣 News
 ------
 
+
+
 <li style="font-size: 0.93em; line-height: 1.6;">2023.05.29: IEEE TSMC accepted my fourth SCI paper  — hard work rewarded! 💪</li>
 
 <li style="font-size: 0.93em; line-height: 1.6; text-indent: -1.2em; padding-left: 1.2em;"> 
@@ -88,7 +90,6 @@ Before joining NTU, I obtained my Ph.D. in Mechanical Engineering (specialized i
 </li>
 
 <li style="font-size: 0.93em; line-height: 1.6;">2023.01.07: My second Ph.D. SCI paper was accepted by EAAI — time to celebrate! 🎉</li>
-
 
 <li style="font-size: 0.93em; line-height: 1.6; text-indent: -1.2em; padding-left: 1.2em;"> 
   2022.02.27: Got my first review invitation from IEEE TSMC — my debut as a journal reviewer!<br>
