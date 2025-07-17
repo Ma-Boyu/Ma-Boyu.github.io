@@ -78,6 +78,6 @@ Before joining NTU, I obtained my Ph.D. in Mechanical Engineering (specialized i
 
 📣 News
 ------
-<p>More info about configuring Academic Pages can be found in <a href="https://academicpages.github.io/markdown/">the guide</a>, the <a href="https://github.com/academicpages/academicpages.github.io/wiki">growing wiki</a>, and you can always <a href="https://github.com/academicpages/academicpages.github.io/discussions">ask a question on GitHub</a>. The <a href="https://mmistakes.github.io/minimal-mistakes/docs/configuration/">guides for the Minimal Mistakes theme</a> (which this theme was forked from) might also be helpful.</p>
+<li>2019.09.01: School of Mechatronics Engineering, Harbin Institute of Technology (HIT), Harbin, China<br></li>
 
 
