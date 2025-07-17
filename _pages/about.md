@@ -80,7 +80,7 @@ Before joining NTU, I obtained my Ph.D. in Mechanical Engineering (specialized i
 ------
 
 
-<li style="font-size: 0.9em; line-height: 1.6;">2025.03.02:  I attended my Ph.D. graduation ceremony and received my degree! 🎓</li>
+<li style="font-size: 0.9em; line-height: 1.6;">2025.03.03:  I received an <strong>OFFER</strong> for a Postdoctoral Research Fellow position at Nanyang Technological University (NTU), Singapore! 🎉 Can’t wait to start this new journey! 🤩 </li>
 
 <li style="font-size: 0.9em; line-height: 1.6;">2024.12.29:  I attended my Ph.D. graduation ceremony and received my degree! 🎓</li>
 <li style="font-size: 0.9em; line-height: 1.6;">2024.10.13:  I successfully passed my Ph.D. defense from 9:00am to 2:00pm. I'm officially <strong>GRADUATED</strong> !!! 🎓 Can’t believe it’s finally over 😭 Super happy, but soooo tired.🤯</li>
