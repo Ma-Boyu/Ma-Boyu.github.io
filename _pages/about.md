@@ -13,7 +13,9 @@ redirect_from:
   I am a Postdoctoral Research Fellow with the School of Mechanical and Aerospace Engineering at Nanyang Technological University (NTU), Singapore. I am currently working with Assistant Prof. <a href="https://marsyang.site/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Jianfei Yang</a> on <em>Embodied AI</em> at the <a href="https://marslab.tech/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">NTU MARS Lab</a>, exploring research topics in <em>Robotics & AI</em>, including robot learning, robotic dexterous grasping, dual-arm collaborative manipulation, humanoid robots, foundation model-driven robotics, and diffusion policy.
  
 </p> 
-Before joining NTU, I obtained my Ph.D. in Mechanical Engineering from Harbin Institute of Technology (HIT), Harbin, China, in October 2024, and my B.S. in Mechanical Design, Manufacturing and Automation from Yanshan University (YSU), Qinhuangdao, China, in June 2019.
+Before joining NTU, I obtained my Ph.D. in Mechanical Engineering from the Harbin Institute of Technology (HIT), Harbin, China, in October 2024, under the supervision of Prof. <a href="https://homepage.hit.edu.cn/xiezongwu?lang=zh" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Zongwu Xie</a> and co-supervision of Prof. Zainan Jiang, in the research group led by Prof. Hong Liu.
+
+and my B.S. in Mechanical Design, Manufacturing and Automation from Yanshan University (YSU), Qinhuangdao, China, in June 2019.
 <p align = "justify"> 
 
 </p>
