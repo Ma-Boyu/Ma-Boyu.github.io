@@ -78,6 +78,6 @@ Before joining NTU, I obtained my Ph.D. in Mechanical Engineering (specialized i
 
 📣 News
 ------
-<li>2019.09.01: School of Mechatronics Engineering, Harbin Institute of Technology (HIT), Harbin, China<br></li>
+<li>2019.09.01: Officially started my Ph.D. journey — diving into the world of robotics research! 🤩 </li>
 
 
