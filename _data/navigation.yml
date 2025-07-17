@@ -23,11 +23,12 @@ main:
   - title: "CV"
     url: /cv/
 
- - title: "Hobbies"
+  - title: "Hobbies"
     url: /hobbies/  
 
   - title: "Website visitors"
     url: /website-visitors/
+
     
   # - title: "Talks"
   #  url: /talks/    
