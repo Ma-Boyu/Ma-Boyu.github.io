@@ -28,6 +28,8 @@ Before joining NTU, I obtained my Ph.D. in Mechanical Engineering from the Harbi
 <li>Robotic dexterous grasping</li>
 <li>Dual-arm collaborative manipulation</li>
 <li>Humanoid robots</li>
+<li>Optimization theory and applications in robotics</li>
+<li>Metaheuristic algorithm</li>
 </ul>
 
 
