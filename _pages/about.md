@@ -81,6 +81,9 @@ Before joining NTU, I obtained my Ph.D. in Mechanical Engineering (specialized i
 <li style="font-size: 0.93em; line-height: 1.6;">2021.01.16: My first SCI paper was accepted by FME — what a big step in my research journey! 🎉</li>
 <li style="font-size: 0.93em; line-height: 1.6;">2021.01.16: My first SCI paper was accepted by FME — what a big step in my research journey! 🎉</li>
 <li style="font-size: 0.93em; line-height: 1.6;">2022.02.27: Got my first review invitation from IEEE TSMC — my debut as a journal reviewer! Feeling excited and honored! 🤓</li>
+<li style="font-size: 0.93em; line-height: 1.6; text-indent: -1.2em; padding-left: 1.2em;">
+  2022.02.27: Got my first review invitation from IEEE TSMC — my debut as a journal reviewer! Feeling excited and honored! 🤓
+</li>
 
 <li style="font-size: 0.93em; line-height: 1.6;">2021.01.16: My first SCI paper was accepted by FME — what a big step in my research journey! 🎉</li>
 <li style="font-size: 0.93em; line-height: 1.6;">2019.09.01: Officially started my Ph.D. journey — diving into the world of robotics research! 🤩</li>
