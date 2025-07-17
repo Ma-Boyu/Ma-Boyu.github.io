@@ -80,7 +80,7 @@ Before joining NTU, I obtained my Ph.D. in Mechanical Engineering (specialized i
 ------
 
 <li style="font-size: 0.9em; line-height: 1.6;">
-  2024.10.13: I successfully passed my Ph.D. defense from 9:00am to 2:00pm! I'm officially graduated 🎓 Can’t believe it’s finally over 🥲 Super happy, but soooo tired.
+  2024.10.13: I successfully passed my Ph.D. defense from 9:00am to 2:00pm. I'm officially graduated!!!🎓 Can’t believe it’s finally over 😭 Super happy, but soooo tired.🤯
 </li>
 <li style="font-size: 0.9em; line-height: 1.6;">2024.08.20: Passed my Ph.D. pre-defense! Excited for the next steps. 💪 </li>
 <li style="font-size: 0.9em; line-height: 1.6;">2024.05.12: I’m going to ICRA 2024 in Yokohama, Japan. Looking forward to seeing you there! ✈️</li>
