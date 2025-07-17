@@ -78,9 +78,8 @@ Before joining NTU, I obtained my Ph.D. in Mechanical Engineering (specialized i
 
 📣 News
 ------
-<div style="max-width: 1200px; margin: 0 auto;">
-  <div style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; overflow-x: auto; padding: 0 1em;">
-
+<div style="max-width: 1200px; padding: 0 1em; margin: 0 auto; overflow-x: auto;">
+  <ul style="list-style: none; padding-left: 0; font-size: 0.93em; line-height: 1.6;">
 
 
 <li style="font-size: 0.93em; line-height: 1.6;">
