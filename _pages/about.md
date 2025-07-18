@@ -82,7 +82,7 @@ Before joining NTU, I obtained my Ph.D. in Mechanical Engineering (specialized i
 📣 News
 ------
 <li style="font-size: 0.9em; line-height: 1.6;"><em>2025.07.02</em> :  💥🤖 Suuuuuuper excited to share that my <strong>First-Author paper</strong> from my Ph.D. work has been accepted by <strong style="color:red;">The International Journal of Robotics Research (IJRR)</strong>, one of the top 3 journals in robotics! 🎉 This has been a dream of mine since I started in robotics — still can’t believe it’s finally coming true after five years in this field! 🥹 WE DID IT!!! 🏆 </li>
-<li style="font-size: 0.9em; line-height: 1.6;"><em>2025.05.16</em> :  Excited to share that I’ve joined Nanyang Technological University (NTU) as a <strong>Postdoctoral Research Fellow</strong>! 🚀 </li>
+<li style="font-size: 0.9em; line-height: 1.6;"><em>2025.05.16</em> :  Excited to share that I’m starting a new position as <strong>Postdoctoral Research Fellow</strong> at Nanyang Technological University (NTU)! 🚀 </li>
 
 <li style="font-size: 0.9em; line-height: 1.6;"><em>2025.04.16</em> :  🎉 My AISY paper was recognized as a Wiley <strong style="color:red;">Top Viewed Article</strong> in <em>Advanced Intelligent Systems</em> among works published in 2023! <strong>DOUBLE Awards</strong>!! 🏆🏆 </li>
 <li style="font-size: 0.9em; line-height: 1.6;"><em>2025.03.19</em> :  🎉 My AISY paper was recognized as a Wiley <strong style="color:red;">Top Cited Article</strong> in <em>Advanced Intelligent Systems</em> among works published in 2023! 📢 </li>
@@ -92,7 +92,7 @@ Before joining NTU, I obtained my Ph.D. in Mechanical Engineering (specialized i
 <li style="font-size: 0.9em; line-height: 1.6;"><em>2024.12.29</em> :  I attended my Ph.D. graduation ceremony and received my degree! 🎓</li>
 <li style="font-size: 0.9em; line-height: 1.6;"><em>2024.10.13</em> :  I successfully passed my Ph.D. defense from 9:00am to 2:00pm. I'm officially <strong>GRADUATED</strong> !!! 🎓 Can’t believe it’s finally over 😭 Super happy, but toooo tired.🤯</li>
 <li style="font-size: 0.9em; line-height: 1.6;"><em>2024.08.20</em> :  Passed my Ph.D. pre-defense! Excited for the next steps. 💪</li>
-<li style="font-size: 0.9em; line-height: 1.6;"><em>2024.08.04</em> :  Honoured to have given an invited talk on redundancy resolution at Tsinghua University (International Graduate School), Shenzhen, China. 🎤</li>
+<li style="font-size: 0.9em; line-height: 1.6;"><em>2024.08.04</em> :  Honoured to have given an invited talk on <em>Redundancy Resolution</em> at Tsinghua University (International Graduate School), Shenzhen, China. 🎤</li>
 <li style="font-size: 0.9em; line-height: 1.6;"><em>2024.05.12</em> :  I’m going to ICRA 2024 in Yokohama, Japan. Looking forward to seeing you there! ✈️</li>
 <li style="font-size: 0.9em; line-height: 1.6;"><em>2023.12.03</em> :  I’m going to ROBIO 2023, and my oral presentation is on Dec 8. See you in Koh Samui, Thailand! ✈️</li>
 <li style="font-size: 0.9em; line-height: 1.6;"><em>2023.07.20</em> :  Finally completed the major experiments in Beijing for my PhD thesis — powered through several all-nighters! 😴</li>
