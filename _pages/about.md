@@ -95,7 +95,7 @@ Before joining NTU, I obtained my Ph.D. in Mechanical Engineering (specialized i
 <li style="font-size: 0.9em; line-height: 1.6;"><em>2024.08.04</em> :  Honoured to have given an invited talk on <em>Redundancy Resolution</em> at Tsinghua University (International Graduate School), Shenzhen, China. 🎤</li>
 <li style="font-size: 0.9em; line-height: 1.6;"><em>2024.05.12</em> :  I’m going to ICRA 2024 in Yokohama, Japan. Looking forward to seeing you there! ✈️</li>
 <li style="font-size: 0.9em; line-height: 1.6;"><em>2023.12.03</em> :  I’m going to ROBIO 2023, and my oral presentation is on Dec 8. See you in Koh Samui, Thailand! ✈️</li>
-<li style="font-size: 0.9em; line-height: 1.6;"><em>2023.07.20</em> :  Finally completed the major experiments in Beijing for my PhD thesis — powered through several all-nighters! 😴</li>
+<li style="font-size: 0.9em; line-height: 1.6;"><em>2023.07.20</em> :  Finally completed the major experiments in Beijing for my PhD thesis — powered through several all-nighters 😴 especially with the invaluable support of Associate Prof. Yang Liu!</li>
 <li style="font-size: 0.9em; line-height: 1.6;"><em>2023.07.06</em> :  I will attend the 4th China Robotics Academic Annual Conference in Hangzhou, China. Looking forward to seeing you there! ✈️</li>
 <li style="font-size: 0.9em; line-height: 1.6;"><em>2023.06.15</em> :  🔥 I was invited to serve as a <strong>Torch Bearer</strong> of the <em>Chengdu 2021 FISU World University Games</em> 🏃‍♂️, a great honor to represent youth and passion on the global stage! 🏅</li>
 <li style="font-size: 0.9em; line-height: 1.6;"><em>2023.05.29</em> :  IEEE TSMC accepted my fourth SCI paper  — hard work rewarded! 💪</li>
