@@ -26,8 +26,8 @@ main:
   - title: "Hobbies"
     url: /hobbies/  
 
-  - title: "Website Visitors"
-    url: /website-visitors/
+  # - title: "Website Visitors"
+  #  url: /website-visitors/
 
     
   # - title: "Talks"
