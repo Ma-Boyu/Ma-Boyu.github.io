@@ -83,12 +83,24 @@ Before joining NTU, I obtained my Ph.D. in Mechanical Engineering (specialized i
 ------
 <li style="font-size: 0.9em; line-height: 1.6;"><em>2025.11.19</em> :  😄 My <strong>IJRR</strong> Paper Online Published! — after waiting 4.5 months for the formatting refinements to finally finish! 👉 [<a href="https://doi.org/10.1177/02783649251371735" target="_blank" rel="noopener noreferrer">Link</a>]
 
-<li style="font-size: 0.9em; line-height: 1.6;"><em>2025.09.25</em> :  🤖 Honored to be invited as a <strong>Guest Editor</strong> for <em>Applied System Innovation</em> — Special Issue: <a href="https://www.mdpi.com/journal/asi/special_issues/9JY6F5KL0K"
-   target="_blank"
-   rel="noopener noreferrer"
-   style="text-decoration: none; color: inherit;">
-  <em>Intelligent Robotics for Precision Medicine and Advanced Manufacturing</em>!
-</a> 🚀</li>
+<li style="font-size: 0.9em; line-height: 1.6;"><em>2025.12.16</em> :  🎉 Very honored to serve as an <strong>Early-Career Editorial Board Member</strong> of 
+    <a href="https://www.elspub.com/journals/robot-learning/home/"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="text-decoration: none; color: inherit;">
+      <em>Robot Learning</em>!
+    </a> Looking forward to contributing to the journal and collaborating with the editorial team to support and promote high-quality research! 🚀
+
+
+
+
+<li style="font-size: 0.9em; line-height: 1.6;"><em>2025.09.25</em> :  🤖 Honored to be invited as a <strong>Guest Editor</strong> for <em>Applied System Innovation</em> — Special Issue: 
+    <a href="https://www.mdpi.com/journal/asi/special_issues/9JY6F5KL0K"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="text-decoration: none; color: inherit;">
+      <em>Intelligent Robotics for Precision Medicine and Advanced Manufacturing</em>!
+    </a> 🚀</li>
 
 
 
