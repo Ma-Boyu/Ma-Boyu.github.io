@@ -86,7 +86,7 @@ Before joining NTU, I obtained my Ph.D. in Mechanical Engineering (specialized i
        target="_blank"
        rel="noopener noreferrer"
        style="text-decoration: none; color: inherit;">
-      <em>Robot Learning</em>!
+      <em>Robot Learning</em> !
     </a> Looking forward to contributing to the journal and collaborating with the editorial team to support and promote high-quality research! 🚀
   
 <li style="font-size: 0.9em; line-height: 1.6;"><em>2025.11.19</em> :  😄 My <strong>IJRR</strong> Paper Online Published! — after waiting 4.5 months for the formatting refinements to finally finish! 👉 [<a href="https://doi.org/10.1177/02783649251371735" target="_blank" rel="noopener noreferrer">Link</a>]
