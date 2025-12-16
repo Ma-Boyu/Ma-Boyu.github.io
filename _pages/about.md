@@ -83,7 +83,7 @@ Before joining NTU, I obtained my Ph.D. in Mechanical Engineering (specialized i
 ------
 <li style="font-size: 0.9em; line-height: 1.6;"><em>2025.11.19</em> :  😄 My <strong>IJRR</strong> Paper Online Published! — after waiting 4.5 months for the formatting refinements to finally finish! 👉 [<a href="https://doi.org/10.1177/02783649251371735" target="_blank" rel="noopener noreferrer">Link</a>]
 
-<li style="font-size: 0.9em; line-height: 1.6;"><em>2025.09.25</em> :  🤖 Honored to be invited as a <strong>Guest Editor</strong> for <em>Applied System Innovation</em> — Special Issue: <a href="https://www.mdpi.com/journal/asi/special_issues/9JY6F5KL0K" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><em>Intelligent Robotics for Precision Medicine and Advanced Manufacturing</em></a> Looking forward to working with the editorial team and contributors on this exciting topic! 🚀</li>
+<li style="font-size: 0.9em; line-height: 1.6;"><em>2025.09.25</em> :  🤖 Honored to be invited as a <strong>Guest Editor</strong> for <em>Applied System Innovation</em> — Special Issue: <a href="https://www.mdpi.com/journal/asi/special_issues/9JY6F5KL0K" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><em>Intelligent Robotics for Precision Medicine and Advanced Manufacturing</em></a>. Looking forward to working with the editorial team and contributors on this exciting topic! 🚀</li>
 
 
 
