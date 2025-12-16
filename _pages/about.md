@@ -87,8 +87,8 @@ Before joining NTU, I obtained my Ph.D. in Mechanical Engineering (specialized i
    target="_blank"
    rel="noopener noreferrer"
    style="text-decoration: none; color: inherit;">
-  <em>Intelligent Robotics for Precision Medicine and Advanced Manufacturing.</em>
-</a>Looking forward to working with the editorial team and contributors on this exciting topic! 🚀</li>
+  <em>Intelligent Robotics for Precision Medicine and Advanced Manufacturing</em>!
+</a> 🚀</li>
 
 
 
