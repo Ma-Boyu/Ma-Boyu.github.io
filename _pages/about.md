@@ -81,7 +81,15 @@ Before joining NTU, I obtained my Ph.D. in Mechanical Engineering (specialized i
 
 📣 News
 ------
-<li style="font-size: 0.9em; line-height: 1.6;"><em>2025.12.16</em> :  🎉 Very honored to serve as an <strong>Early-Career Editorial Board Member</strong> of 
+<li style="font-size: 0.9em; line-height: 1.6;"><em>2025.12.16</em> :  🎉 Honored to join 
+    <a href="https://smartbot.hit.edu.cn/"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="text-decoration: none; color: inherit;">
+      <em>SmartBot</em> as an <strong>Early-Career Editorial Board Member</strong>!
+    </a> Excited to contribute and collaborate with the editorial team! 🚀
+  
+<li style="font-size: 0.9em; line-height: 1.6;"><em>2025.12.16</em> :  🎉 Honored to serve as an <strong>Early-Career Editorial Board Member</strong> of 
     <a href="https://www.elspub.com/journals/robot-learning/home/"
        target="_blank"
        rel="noopener noreferrer"
