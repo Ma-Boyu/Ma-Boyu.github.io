@@ -86,8 +86,8 @@ Before joining NTU, I obtained my Ph.D. in Mechanical Engineering (specialized i
        target="_blank"
        rel="noopener noreferrer"
        style="text-decoration: none; color: inherit;">
-      <em><strong>SmartBot</strong></em> as an <strong>Early-Career Editorial Board Member</strong> !
-    </a> Excited to contribute and collaborate with the editorial team! 🚀
+      <em><strong>SmartBot</strong></em></a> as an <strong>Early-Career Editorial Board Member</strong> !
+     Excited to contribute and collaborate with the editorial team! 🚀
   
 <li style="font-size: 0.9em; line-height: 1.6;"><em>2025.12.16</em> :  🎉 Honored to serve as an <strong>Early-Career Editorial Board Member</strong> of 
     <a href="https://www.elspub.com/journals/robot-learning/home/"
