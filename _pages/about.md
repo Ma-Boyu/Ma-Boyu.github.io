@@ -81,6 +81,8 @@ Before joining NTU, I obtained my Ph.D. in Mechanical Engineering (specialized i
 
 📣 News
 ------
+<li style="font-size: 0.9em; line-height: 1.6;"><em>2026.03.06</em> :  💥💥 Our IJRR paper has been selected as the cover paper (Vol. 45, No. 5). We are thrilled and honored that our work has received significant recognition and will be featured on the cover of IJRR! 🎉🎉</li>
+
 <li style="font-size: 0.9em; line-height: 1.6;"><em>2026.01.22</em> :  🎉 Honored to join 
     <a href="https://smartbot.hit.edu.cn/"
        target="_blank"
@@ -106,6 +108,7 @@ Before joining NTU, I obtained my Ph.D. in Mechanical Engineering (specialized i
        style="text-decoration: none; color: inherit;">
       <em>Intelligent Robotics for Precision Medicine and Advanced Manufacturing</em>.
     </a> 🚀</li>
+
 
 <li style="font-size: 0.9em; line-height: 1.6;"><em>2025.07.02</em> :  💥🤖 Suuuuuuper excited to share that my <strong>First-Author paper</strong> from my Ph.D. work has been accepted by <strong style="color:#FFA500;">The International Journal of Robotics Research (IJRR)</strong>, one of the top 3 journals in robotics! 🎉 This has been a dream of mine since I started in robotics — still can’t believe it’s finally coming true after five years in this field! 🥹 WE DID IT!!! 🏆 </li>
 <li style="font-size: 0.9em; line-height: 1.6;"><em>2025.05.16</em> :  Excited to share that I’m starting a new position as <strong>Postdoctoral Research Fellow</strong> at Nanyang Technological University (NTU)! 🚀 </li>
