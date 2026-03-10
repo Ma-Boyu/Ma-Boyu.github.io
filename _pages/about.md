@@ -81,7 +81,7 @@ Before joining NTU, I obtained my Ph.D. in Mechanical Engineering (specialized i
 
 📣 News
 ------
-<li style="font-size: 0.9em; line-height: 1.6;"><em>2026.03.06</em> :  💥 Our <strong>IJRR</strong> paper has been selected as the <strong style="color:#FFA500;">Cover Paper</strong> (Vol. 45, No. 5). We are thrilled and honored that our work has received significant recognition and will be featured on the cover of IJRR! 🎉</li>
+<li style="font-size: 0.9em; line-height: 1.6;"><em>2026.03.06</em> :  💥 My <strong>IJRR</strong> paper has been selected as the <strong style="color:#FFA500;">Cover Paper</strong> (Vol. 45, No. 5). We are thrilled and honored that our work has received significant recognition and will be featured on the cover of IJRR! 🎉</li>
 
 <li style="font-size: 0.9em; line-height: 1.6;"><em>2026.01.22</em> :  🎉 Honored to join 
     <a href="https://smartbot.hit.edu.cn/"
