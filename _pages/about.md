@@ -81,6 +81,8 @@ Before joining NTU, I obtained my Ph.D. in Mechanical Engineering (specialized i
 
 📣 News
 ------
+
+<li style="font-size: 0.9em; line-height: 1.6;"><em>2026.04.24</em> :  🚀 Our work has been accepted to the 77th International Astronautical Congress (IAC 2026) for an interactive presentation!</li>
 <li style="font-size: 0.9em; line-height: 1.6;"><em>2026.04.10</em> :  I have been invited to serve on the <strong>Program Committee</strong> of IEEE ICMA 2026 (IEEE International Conference on Mechatronics and Automation)! 🚀 </li>
 
 <li style="font-size: 0.9em; line-height: 1.6;"><em>2026.03.06</em> :  💥 My <strong>IJRR</strong> paper has been selected as the <strong style="color:#FFA500;">Cover Paper</strong> (Vol. 45, No. 5). We are thrilled and honored that our work has received significant recognition and will be featured on the cover of IJRR! 🎉</li>
