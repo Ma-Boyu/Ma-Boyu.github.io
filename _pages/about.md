@@ -82,12 +82,12 @@ Before joining NTU, I obtained my Ph.D. in Mechanical Engineering (specialized i
 📣 News
 ------
 
-<li style="font-size: 0.9em; line-height: 1.6;"><em>2026.05.01</em> :  🎉 Truly honored to serve as an <strong>Associate Editor</strong> for
+<li style="font-size: 0.9em; line-height: 1.6;"><em>2026.05.01</em> :  🎉 Truly honored to serve as an <strong>Associate Editor</strong> <strong>(AE)</strong> for
     <a href="https://www.ieee-ras.org/publications/ra-l/"
        target="_blank"
        rel="noopener noreferrer"
        style="text-decoration: none; color: inherit;">
-      <em><strong>IEEE Robotics and Automation Letters (RA-L)</strong></em></a>!
+      <em><strong>IEEE Robotics and Automation Letters</strong></em></a> (<strong>RA-L</strong>)!
      This is truly a meaningful milestone in my academic journey, and I’m excited to contribute to the robotics community. Looking forward to contributing to the robotics community and supporting high-quality robotics research! 🚀
 
 <li style="font-size: 0.9em; line-height: 1.6;"><em>2026.04.24</em> :  🚀 Our work has been accepted to the 77th International Astronautical Congress (IAC 2026) for an interactive presentation!</li>
