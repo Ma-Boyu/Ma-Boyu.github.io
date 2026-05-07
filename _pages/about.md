@@ -88,7 +88,7 @@ Before joining NTU, I obtained my Ph.D. in Mechanical Engineering (specialized i
        rel="noopener noreferrer"
        style="text-decoration: none; color: inherit;">
       <em><strong>IEEE Robotics and Automation Letters</strong></em></a> (<strong>RA-L</strong>) !
-     This is a meaningful milestone in my academic journey, and I’m looking forward to contributing to the robotics community and supporting high-quality robotics research! 🚀
+     This is a meaningful milestone in my academic journey, and I’m looking forward to contributing to the robotics community and supporting high-quality robotics research in RA-L! 🚀
 
 <li style="font-size: 0.9em; line-height: 1.6;"><em>2026.04.24</em> :  🚀 Our work has been accepted to the 77th International Astronautical Congress (IAC 2026) for an interactive presentation!</li>
 <li style="font-size: 0.9em; line-height: 1.6;"><em>2026.04.10</em> :  I have been invited to serve on the <strong>Program Committee</strong> of     <a href="http://2026.ieee-icma.org/Home/Home.aspx/"
