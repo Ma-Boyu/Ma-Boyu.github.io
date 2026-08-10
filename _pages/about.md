@@ -82,6 +82,17 @@ Before joining NTU, I obtained my Ph.D. in Mechanical Engineering (specialized i
 📣 News
 ------
 
+<li style="font-size: 0.9em; line-height: 1.6;">
+  <em>2026.07.09</em> : 🤖 Honored to serve as a <strong>Guest Editor</strong> for 
+  <em>Frontiers in Robotics and AI</em> — Research Topic:
+  <a href="https://www.frontiersin.org/research-topics/83131/towards-autonomous-and-trustworthy-robotic-systems-intelligent-control-motion-planning-and-embodied-decision-making"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="text-decoration: none; color: inherit;">
+    <em>Towards Autonomous and Trustworthy Robotic Systems: Intelligent Control, Motion Planning, and Embodied Decision-Making</em>.
+  </a> 🚀
+</li>
+
 <li style="font-size: 0.9em; line-height: 1.6;"><em>2026.05.01</em> :  🎉 Truly honored to serve as an <strong>Associate Editor</strong> (<strong>AE</strong>) for
     <a href="https://www.ieee-ras.org/publications/ra-l/"
        target="_blank"
